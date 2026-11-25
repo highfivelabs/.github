@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://highfivelabs.dev">Website</a> ·
   <a href="https://registry.highfivelabs.dev">KRM Registry</a> ·
-  <a href="https://highfivelabs.dev/careers/">Careers</a> ·
   <a href="mailto:hello@highfivelabs.dev">hello@highfivelabs.dev</a>
 </p>
 
